@@ -40,9 +40,14 @@ def baseline(path):
             if filehash:
                 hashlist[secondpath] = {"HASH ":filehash,"SIZE ": size, "LASTmodificationTIME ": modtime}
                 print("hashed : ", secondpath)
-                Banner("high_R")
     return hashlist
             
+
+def jsonm(path,hashlist):    
+    jsonname = input("Enter a name to save as : ")   
+    with open(f"hashfolder/{jsonname}.json", "w") as json_file:
+        json.dump(hashlist,json_file,indent=4)
+    return True
 
 
 def verify(path):
@@ -59,7 +64,8 @@ def userchoice():
         choice = int(input("Enter your choice: "))
         if choice == 1:
             hashlsit= baseline(path)
-            print("HASH DICTIONARY : ", hashlsit) 
+            if jsonm(path, hashlsit):
+                print(f"Hashlist is saved in json sucessfully with name {path}.json")
             
         elif choice == 2:
             verify(path)

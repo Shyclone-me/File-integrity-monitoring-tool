@@ -45,5 +45,8 @@ for root, dirs, files in os.walk(path):
             
 
 
-print("hash Dictionary",hashlist)
-
+name = input("enter name to save as : ")     
+with open(f"hashfolder/{name}.json", "w") as json_file:
+    json.dump(hashlist,json_file,indent=4)
+      
+    

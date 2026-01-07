@@ -1,0 +1,232 @@
+{
+    ".\\main.py": {
+        "Hash": "cb8229806600d9b4de730b8a2efc1e18dd27dcf67657c20b1c063a3e657073a0",
+        "size": "2.12 KB",
+        "mod_time": "Wed Jan  7 20:00:30 2026"
+    },
+    ".\\README.md": {
+        "Hash": "a9451851152354a2eff96047a0c8ae066acb941230028042eb8abc2e27ca3ef9",
+        "size": "44.00 B",
+        "mod_time": "Tue Jan  6 19:19:22 2026"
+    },
+    ".\\try.py": {
+        "Hash": "1ddd47961f607270489c46cbac2e6590d4f982622140ba540409735184f9a410",
+        "size": "1.29 KB",
+        "mod_time": "Wed Jan  7 20:09:03 2026"
+    },
+    ".\\try1.json": {
+        "Hash": "0fb7fd833b8c15cc1927cca4aa47fbe1da7d8c3b6037eadf29fc60995ba12db7",
+        "size": "9.63 KB",
+        "mod_time": "Wed Jan  7 20:08:45 2026"
+    },
+    ".\\.git\\COMMIT_EDITMSG": {
+        "Hash": "70e9342db54587886bf1f0674968e1a3f57b8720a833a9005697f0f83342b9b3",
+        "size": "101.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\config": {
+        "Hash": "2afd3085cbb581de619a3906fff15edb413b737c946b42517f7862b1881d755a",
+        "size": "357.00 B",
+        "mod_time": "Wed Jan  7 13:03:18 2026"
+    },
+    ".\\.git\\description": {
+        "Hash": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+        "size": "73.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\HEAD": {
+        "Hash": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+        "size": "21.00 B",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\index": {
+        "Hash": "40966789515e1c9ac8efb6116b478d78d373f555e05ca21283c93f2917fe89d2",
+        "size": "281.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\packed-refs": {
+        "Hash": "662366c8d1a17933e726261e1a48a5b679f23a10ecaf8359587c4f6712157e7f",
+        "size": "112.00 B",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\hooks\\applypatch-msg.sample": {
+        "Hash": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+        "size": "478.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\commit-msg.sample": {
+        "Hash": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+        "size": "896.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\fsmonitor-watchman.sample": {
+        "Hash": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+        "size": "4.62 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\post-update.sample": {
+        "Hash": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+        "size": "189.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\pre-applypatch.sample": {
+        "Hash": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+        "size": "424.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\pre-commit.sample": {
+        "Hash": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+        "size": "1.61 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\pre-merge-commit.sample": {
+        "Hash": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+        "size": "416.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\pre-push.sample": {
+        "Hash": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+        "size": "1.34 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\pre-rebase.sample": {
+        "Hash": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+        "size": "4.78 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\pre-receive.sample": {
+        "Hash": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+        "size": "544.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\prepare-commit-msg.sample": {
+        "Hash": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+        "size": "1.46 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\push-to-checkout.sample": {
+        "Hash": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+        "size": "2.72 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\sendemail-validate.sample": {
+        "Hash": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+        "size": "2.25 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\hooks\\update.sample": {
+        "Hash": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+        "size": "3.56 KB",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\info\\exclude": {
+        "Hash": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+        "size": "240.00 B",
+        "mod_time": "Tue Jan  6 19:18:26 2026"
+    },
+    ".\\.git\\logs\\HEAD": {
+        "Hash": "55a998ac75ebbbe410ee00d767cf615fe6af99e1df18e186235784ed55793f4a",
+        "size": "789.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\logs\\refs\\heads\\main": {
+        "Hash": "55a998ac75ebbbe410ee00d767cf615fe6af99e1df18e186235784ed55793f4a",
+        "size": "789.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\logs\\refs\\remotes\\origin\\HEAD": {
+        "Hash": "94037b881bf938e9e8875da51f23bd88745256857835439247b91d8ef469fb72",
+        "size": "213.00 B",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\logs\\refs\\remotes\\origin\\main": {
+        "Hash": "372819e5a143d593b7f6bb95db04bbed6dfa6b03168a63c62c153779f3ee8d6c",
+        "size": "300.00 B",
+        "mod_time": "Tue Jan  6 20:36:13 2026"
+    },
+    ".\\.git\\objects\\43\\257d3803f5c3bb63a4026b2f2775d629760634": {
+        "Hash": "0aaaa09a9295bec21a28c5830783dee9121cddc925df23e7e1f4b9227936afa4",
+        "size": "85.00 B",
+        "mod_time": "Tue Jan  6 19:23:19 2026"
+    },
+    ".\\.git\\objects\\49\\af0c908c88b7099d7417c069aa5a5ed80e4b50": {
+        "Hash": "5cd3770a65e1aa306155ca0d2a510ba9904b58a63272fdc7353c7623fd8d4cd6",
+        "size": "160.00 B",
+        "mod_time": "Tue Jan  6 19:21:49 2026"
+    },
+    ".\\.git\\objects\\50\\94b72236a483b78ab6aab8f3898b330df0c7e6": {
+        "Hash": "86bef24ca577aa7312f3016289e329a6e623eac950a665efb5e286ced658fa9c",
+        "size": "214.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\objects\\5e\\067b5d132069529adc9d1f1bdf1d6d9cb7efb5": {
+        "Hash": "2515dcb7e9e23d7233309a43dd7803c3ec8e8457f6e97d34cbb9ec0f031c9748",
+        "size": "57.00 B",
+        "mod_time": "Tue Jan  6 19:21:20 2026"
+    },
+    ".\\.git\\objects\\72\\3f4b8a8ddba3c89b7ebf58cdb683a5d140f87a": {
+        "Hash": "0593b5bdb2a966380b2869af0b5ff93363e36104cfe924f24be6fc1607ed8791",
+        "size": "178.00 B",
+        "mod_time": "Tue Jan  6 19:23:19 2026"
+    },
+    ".\\.git\\objects\\7c\\11766c029a849d7434cd9743b28112f9a5b1c2": {
+        "Hash": "3a5e401f91dea808219b70bce5043d5d220c76f1c02d0f3923ccc79b786637e2",
+        "size": "780.00 B",
+        "mod_time": "Tue Jan  6 20:29:42 2026"
+    },
+    ".\\.git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+        "Hash": "164c5fa8067facf1a43f09ce3d0e35ebf53a7f5723ecbf15a8667cfc53c26f6c",
+        "size": "15.00 B",
+        "mod_time": "Tue Jan  6 19:22:28 2026"
+    },
+    ".\\.git\\objects\\ea\\dee02c33a0ea4e3ccef70bed10b00a0f3d0c73": {
+        "Hash": "c599b6971bac87895498e671505be4b33e6361cb6f9eb9937e68b126f7b752d2",
+        "size": "54.00 B",
+        "mod_time": "Tue Jan  6 19:21:49 2026"
+    },
+    ".\\.git\\objects\\f4\\17efb6eb409406e0b3dcfd80758a510f0a6f1d": {
+        "Hash": "1bfd75fa4fa2a54ce559c29f8248316d2219be0abd2461342c24f588f6cb6fe7",
+        "size": "114.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\objects\\fa\\00c6a605b23b45d9fae81a331623ab790aade3": {
+        "Hash": "57b846ddad342bd35c1c76b48c7954ed759fa5c964d6a9ef49c210f37644df19",
+        "size": "559.00 B",
+        "mod_time": "Tue Jan  6 20:29:42 2026"
+    },
+    ".\\.git\\objects\\pack\\pack-f1d8dbfd4188626891582ed6e7150626379109fe.idx": {
+        "Hash": "a48bfaaffdd235f704bb38a5bfb2576570407562cd75d19e241bd39916506344",
+        "size": "1.13 KB",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\objects\\pack\\pack-f1d8dbfd4188626891582ed6e7150626379109fe.pack": {
+        "Hash": "75174b34d7c7c856271df8516aa3b698aa9c832e55f524341a5d39a2b9002835",
+        "size": "904.00 B",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\objects\\pack\\pack-f1d8dbfd4188626891582ed6e7150626379109fe.rev": {
+        "Hash": "544680a4928313da0f3589ea1dcfc67270ff503c285acc380e4eafa33f92b1f2",
+        "size": "64.00 B",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\refs\\heads\\main": {
+        "Hash": "293ec6a760485b8311ea3bad418dcb8b9d0a9b2e851d8e5a5bc9829e24ce45e1",
+        "size": "41.00 B",
+        "mod_time": "Tue Jan  6 20:35:48 2026"
+    },
+    ".\\.git\\refs\\remotes\\origin\\HEAD": {
+        "Hash": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4",
+        "size": "30.00 B",
+        "mod_time": "Tue Jan  6 19:18:28 2026"
+    },
+    ".\\.git\\refs\\remotes\\origin\\main": {
+        "Hash": "293ec6a760485b8311ea3bad418dcb8b9d0a9b2e851d8e5a5bc9829e24ce45e1",
+        "size": "41.00 B",
+        "mod_time": "Tue Jan  6 20:36:13 2026"
+    },
+    ".\\hashfolder\\..json": {
+        "Hash": "bc39b2c74a04f781728ecda2a0e6153ea36164801630195b3d06082aa213a5f7",
+        "size": "10.08 KB",
+        "mod_time": "Wed Jan  7 19:59:13 2026"
+    }
+}
